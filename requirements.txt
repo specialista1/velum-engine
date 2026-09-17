@@ -1,0 +1,2 @@
+# Esta versao usa somente a biblioteca padrao do Python.
+# Nao e necessario instalar pacotes pela internet.
